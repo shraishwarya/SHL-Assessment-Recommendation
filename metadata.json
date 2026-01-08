@@ -1,0 +1,5 @@
+{
+  "name": "SHL Assessment Recommender",
+  "description": "An intelligent recommendation system that suggests relevant SHL assessments based on job descriptions or natural language queries using GenAI.",
+  "requestFramePermissions": []
+}
